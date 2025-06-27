@@ -1,0 +1,11 @@
+﻿idCode,roundTitle,trackName,country,race1Length,race2Length,incidentModifier,dnfModifier
+EV001,Australian Event,Adelaide Street Circuit,Australia,25,20,20,5
+EV002,Malaysian Event,Sepang International Circuit,Malaysia,25,20,20,5
+EV003,Spanish Event,Circuito de Jerez Angel Nieto,Spain,25,20,20,5
+EV004,Italian Event,Autodromo Nazionale del Mugello,Italy,25,20,20,5
+EV005,British Event,Silverstone Circuit,United Kingdom,25,20,20,5
+EV006,French Event,Circuit de Magny-Cours Nevers,France,25,20,20,5
+EV007,German Event,Nurburgring GP Circuit,Germany,25,20,20,5
+EV008,South African Event,Kyalami Grand Prix Circuit,South Africa,25,20,20,5
+EV009,Brazilian Event,Autodromo Jose Carlos Pace,Brazil,25,20,20,5
+EV010,American Event,Daytona International Speedway RC,United States,25,20,20,5

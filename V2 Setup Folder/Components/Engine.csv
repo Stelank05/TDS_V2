@@ -1,0 +1,5 @@
+﻿idCode,supplierName,supplierCode,engineScore,hybridScore,reliability
+EN001,Honda,H,97,107,73
+EN002,Chevrolet,C,99,102,75
+EN003,Toyota,T,97,100,73
+EN004,Porsche,P,100,101,73

@@ -1,0 +1,10 @@
+﻿idCode,teamName,teamCode,teamScore,aeroBonus,mechBonus,teamReliability,chassis,engine,tyres
+TE001,Bruh Racing,Bruh,100,11,3,15,Lola,Chevrolet,Firestone
+TE002,Tactically Perfect Racing,Tactically,96,11,5,10,Tatuus,Porsche,Michelin
+TE003,Super Corby Racing,Super Corby,99,11,6,15,Dallara,Chevrolet,Michelin
+TE004,Hunter Motorsport,Hunter,100,13,4,12,Lola,Honda,Michelin
+TE005,URT Motorsports,URT,97,17,6,14,Lola,Honda,Michelin
+TE006,Project D Racing,Project D,98,10,5,14,Dallara,Toyota,Michelin
+TE007,Lankshear-IDA Autosport,Lankshear-IDA,100,16,4,14,Reynard,Toyota,Firestone
+TE008,BKT Racing,BKT,98,18,3,10,Dallara,Porsche,Michelin
+TE009,Sim Party Racing,Sim Party,100,12,5,15,Lola,Porsche,Michelin
