@@ -1,0 +1,7 @@
+C:\Users\Steph\Documents\Excel Sims\Sim Thing\SimThingCodeV2\bin\Debug\SimThingCodeV2.exe.config
+C:\Users\Steph\Documents\Excel Sims\Sim Thing\SimThingCodeV2\bin\Debug\SimThingCodeV2.exe
+C:\Users\Steph\Documents\Excel Sims\Sim Thing\SimThingCodeV2\bin\Debug\SimThingCodeV2.pdb
+C:\Users\Steph\Documents\Excel Sims\Sim Thing\SimThingCodeV2\obj\Debug\SimThingCodeV2.csprojAssemblyReference.cache
+C:\Users\Steph\Documents\Excel Sims\Sim Thing\SimThingCodeV2\obj\Debug\SimThingCodeV2.csproj.CoreCompileInputs.cache
+C:\Users\Steph\Documents\Excel Sims\Sim Thing\SimThingCodeV2\obj\Debug\SimThingCodeV2.exe
+C:\Users\Steph\Documents\Excel Sims\Sim Thing\SimThingCodeV2\obj\Debug\SimThingCodeV2.pdb
